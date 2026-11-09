@@ -1,0 +1,22 @@
+{
+  "name": "yourlimitedcompany",
+  "short_name": "yourlimitedcompany",
+  "description": "Company formation, website development, hosting and business support for international entrepreneurs.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F8FAFC",
+  "theme_color": "#102B46",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
